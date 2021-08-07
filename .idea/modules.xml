@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../laravel-spa-vue3-auth-crud/.idea/laravel.iml" filepath="$PROJECT_DIR$/../laravel-spa-vue3-auth-crud/.idea/laravel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../laravel8vuecrud/.idea/laravel8vuecrud.iml" filepath="$PROJECT_DIR$/../laravel8vuecrud/.idea/laravel8vuecrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tictactoy.iml" filepath="$PROJECT_DIR$/.idea/tictactoy.iml" />
+    </modules>
+  </component>
+</project>
