@@ -6,8 +6,6 @@ session_start();
 <html>
 <head>
     <title>Login - Tic Tac Toe</title>
-    <link rel="icon" type="image/png" href="public/img/16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="public/img/32.png" sizes="32x32">
     <script type="text/javascript" src="public/js/jquery.js"></script>
     <script type="text/javascript" src="public/js/index.js"></script>
     <style type="text/css">
